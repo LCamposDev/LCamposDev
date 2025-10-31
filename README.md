@@ -1,6 +1,6 @@
 # Olá, eu sou Luís Campos!
 
-## Desenvolvedor Júnior Fullstack | Apaixonado por Tecnologia e Inovação
+## Desenvolvedor Web Júnior | Apaixonado por Tecnologia e Inovação
 
 ## 📫 Vamos Conversar!
 Se você estiver procurando por um desenvolvedor dedicado e criativo, vamos conversar sobre como posso contribuir para o sucesso do seu projeto! Você pode me encontrar nos seguintes canais:
@@ -14,4 +14,4 @@ Sinta-se à vontade para me contatar a qualquer momento. Estou ansioso para conh
 ---
 
 ## Sobre Mim
-Desenvolvedor full-stack, apaixonado por tecnologia e inovação. Desde 2021, atuo no desenvolvimento de projetos web e mobile, com foco na independência e fortalecimento do usuário. Minha abordagem inclui análise de usabilidade e estratégias para garantir o melhor desempenho do sistema. Sempre em busca de aprender novas tecnologias, trago ideias inovadoras para todos os projetos. No meu tempo livre, gosto de jogar basquete, sair com amigos e familiares, e recentemente comecei um projeto de desenvolver meus próprios jogos.
+Desenvolvedor web, apaixonado por tecnologia e inovação. Desde 2021, atuo no desenvolvimento de projetos web e mobile, com foco na independência e fortalecimento do usuário. Minha abordagem inclui análise de usabilidade e estratégias para garantir o melhor desempenho do sistema. Sempre em busca de aprender novas tecnologias, trago ideias inovadoras para todos os projetos. No meu tempo livre, gosto de jogar basquete, sair com amigos e familiares, e recentemente comecei um projeto de desenvolver meus próprios jogos.
