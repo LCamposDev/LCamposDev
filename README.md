@@ -38,7 +38,7 @@
 ## 🐍 Contribuições (Snake Animation)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LCamposDev/LCamposDev/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/LCamposDev/LCamposDev/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
 </div>
 
 ---
