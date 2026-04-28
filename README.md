@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Especialista+em+JavaScript+e+TypeScript;Criando+robôs+e+automação;Game+Developer+com+Lua;Sempre+evoluindo+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Robotics+%26+AI+Enthusiast;Lua+Game+Developer;Always+Learning+🚀" />
 
 </div>
 
@@ -38,7 +38,7 @@
 ## 🐍 Contribuições (Snake Animation)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LCamposDev/LCamposDev/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
+  <img src="https://raw.githubusercontent.com/LCamposDev/LCamposDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
