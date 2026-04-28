@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: LCamposDev
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=cyan&color_dots=#0f172a,#0ea5e9,#22d3ee,#67e8f9,#a5f3fc
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#020617,#0ea5e9,#22d3ee,#67e8f9,#a5f3fc
 
-      - name: Push to output branch
+      - name: Push to output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
