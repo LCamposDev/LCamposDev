@@ -1,39 +1,86 @@
-# Olá, eu sou Luís Campos!
+# 👋 Olá, eu sou Luís Campos!
 
-## Desenvolvedor Web | Apaixonado por Tecnologia e Inovação
-
-<div>
-  <a href="https://github.com/LCamposDev">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LCamposDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCamposDev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img alt="Campos-JS" height="30mm" width="40mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Campos-TS" height="30mm" width="40mm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img alt="Campos-AngularJS" height="30mm" width="40mm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img alt="Campos-React" height="30mm" width="40mm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img alt="Campos-HTML" height="30mm" width="40mm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="Campos-React" height="30mm" width="40mm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-campos-8894a3217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-
-## 📫 Vamos Conversar!
-Se você estiver procurando por um desenvolvedor dedicado e criativo, vamos conversar sobre como posso contribuir para o sucesso do seu projeto! Você pode me encontrar nos seguintes canais:
-
-- 📧 Email: [luis.camposfra@gmail.com](mailto:luis.camposfra@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/luís-campos-8894a3217](https://www.linkedin.com/in/luís-campos-8894a3217)
-- 🌐 Site: [https://github.com/LCamposDev](https://github.com/LCamposDev)
-
-Sinta-se à vontade para me contatar a qualquer momento. Estou ansioso para conhecer novas pessoas e explorar novas oportunidades.
+## 💻 Desenvolvedor Full Stack | Apaixonado por tecnologia
 
 ---
 
-## Sobre Mim
-Desenvolvedor web, apaixonado por tecnologia e inovação. Desde 2021, atuo no desenvolvimento de projetos web e mobile, com foco na independência e fortalecimento do usuário. Minha abordagem inclui análise de usabilidade e estratégias para garantir o melhor desempenho do sistema. Sempre em busca de aprender novas tecnologias, trago ideias inovadoras para todos os projetos. No meu tempo livre, gosto de jogar basquete, sair com amigos e familiares, e recentemente comecei um projeto de desenvolver meus próprios jogos.
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Especialista+em+JavaScript+e+TypeScript;Criando+soluções+eficientes+e+escaláveis;Sempre+aprendendo+algo+novo" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LCamposDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCamposDev&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LCamposDev&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
+## 🚀 Tecnologias que uso
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+💡 Desenvolvedor desde 2021, focado em performance, usabilidade e soluções escaláveis  
+🚀 Experiência com Web e Mobile  
+🎮 Criador de projetos próprios e entusiasta de tecnologia  
+🏀 No tempo livre: Tennis + Criação de robôs + Criador de Games com Lua   
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="mailto:luis.camposfra@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lu%C3%ADs-campos-8894a3217/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LCamposDev">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 Extras (badges dinâmicos)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LCamposDev&color=blue&style=flat"/>
+<img src="https://img.shields.io/github/followers/LCamposDev?label=Followers&style=flat"/>
+<img src="https://img.shields.io/github/stars/LCamposDev?affiliations=OWNER&style=flat"/>
+
+</div>
