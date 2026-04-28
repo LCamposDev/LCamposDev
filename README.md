@@ -1,14 +1,20 @@
 # 👋 Olá, eu sou Luís Campos!
 
-## 💻 Desenvolvedor Full Stack | Apaixonado por tecnologia
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Especialista+em+JavaScript+e+TypeScript;Criando+robôs+e+automação;Game+Developer+com+Lua;Sempre+evoluindo+🚀" />
+
+</div>
 
 ---
 
-<div align="center">
+## 🚀 Sobre mim
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Especialista+em+JavaScript+e+TypeScript;Criando+soluções+eficientes+e+escaláveis;Sempre+aprendendo+algo+novo" />
-
-</div>
+💻 Desenvolvedor Full Stack desde 2021  
+⚡ Foco em performance, usabilidade e escalabilidade  
+🤖 Apaixonado por robótica e automação (Robocode / IA)  
+🎮 Criador de jogos com Lua  
+🎾 Treino tênis e curto desafios competitivos  
 
 ---
 
@@ -29,29 +35,54 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🐍 Contribuições (Snake Animation)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🏆 Conquistas
 
-💡 Desenvolvedor desde 2021, focado em performance, usabilidade e soluções escaláveis  
-🚀 Experiência com Web e Mobile  
-🎮 Criador de projetos próprios e entusiasta de tecnologia  
-🏀 No tempo livre: Tennis + Criação de robôs + Criador de Games com Lua   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LCamposDev&theme=dracula&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+## 📦 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/LCamposDev">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LCamposDev&repo=plataforma-gerenciamento-materiais-produtos&theme=dracula"/>
+</a>
+
+<a href="https://github.com/LCamposDev">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LCamposDev&repo=VENDECERTOAPI&theme=dracula"/>
+</a>
+
+</div>
 
 ---
 
@@ -75,12 +106,8 @@
 
 ---
 
-## 🧩 Extras (badges dinâmicos)
+## 👀 Visitas no perfil
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=LCamposDev&color=blue&style=flat"/>
-<img src="https://img.shields.io/github/followers/LCamposDev?label=Followers&style=flat"/>
-<img src="https://img.shields.io/github/stars/LCamposDev?affiliations=OWNER&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=LCamposDev&color=blue"/>
 </div>
