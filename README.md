@@ -2,6 +2,11 @@
 
 ## Desenvolvedor Web Júnior | Apaixonado por Tecnologia e Inovação
 
+<div>
+  <a href="https://github.com/LCamposDev">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LCamposDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCamposDev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 ## 📫 Vamos Conversar!
 Se você estiver procurando por um desenvolvedor dedicado e criativo, vamos conversar sobre como posso contribuir para o sucesso do seu projeto! Você pode me encontrar nos seguintes canais:
 
